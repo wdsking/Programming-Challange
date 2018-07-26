@@ -1,0 +1,11 @@
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\bin\Debug\netcoreapp2.0\03 Calculate age in seconds.deps.json
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\bin\Debug\netcoreapp2.0\03 Calculate age in seconds.runtimeconfig.json
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\bin\Debug\netcoreapp2.0\03 Calculate age in seconds.runtimeconfig.dev.json
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\bin\Debug\netcoreapp2.0\03 Calculate age in seconds.dll
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\bin\Debug\netcoreapp2.0\03 Calculate age in seconds.pdb
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\obj\Debug\netcoreapp2.0\03 Calculate age in seconds.csprojResolveAssemblyReference.cache
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\obj\Debug\netcoreapp2.0\03 Calculate age in seconds.csproj.CoreCompileInputs.cache
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\obj\Debug\netcoreapp2.0\03 Calculate age in seconds.AssemblyInfoInputs.cache
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\obj\Debug\netcoreapp2.0\03 Calculate age in seconds.AssemblyInfo.cs
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\obj\Debug\netcoreapp2.0\03 Calculate age in seconds.dll
+E:\Programming-Challange\03 Calculate age in seconds\03 Calculate age in seconds\obj\Debug\netcoreapp2.0\03 Calculate age in seconds.pdb
