@@ -1,0 +1,11 @@
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\bin\Debug\netcoreapp2.0\02 Temperature Converter.deps.json
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\bin\Debug\netcoreapp2.0\02 Temperature Converter.runtimeconfig.json
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\bin\Debug\netcoreapp2.0\02 Temperature Converter.runtimeconfig.dev.json
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\bin\Debug\netcoreapp2.0\02 Temperature Converter.dll
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\bin\Debug\netcoreapp2.0\02 Temperature Converter.pdb
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\obj\Debug\netcoreapp2.0\02 Temperature Converter.csprojResolveAssemblyReference.cache
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\obj\Debug\netcoreapp2.0\02 Temperature Converter.csproj.CoreCompileInputs.cache
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\obj\Debug\netcoreapp2.0\02 Temperature Converter.AssemblyInfoInputs.cache
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\obj\Debug\netcoreapp2.0\02 Temperature Converter.AssemblyInfo.cs
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\obj\Debug\netcoreapp2.0\02 Temperature Converter.dll
+E:\Programming-Challange\02 Temperature Converter\02 Temperature Converter\obj\Debug\netcoreapp2.0\02 Temperature Converter.pdb
