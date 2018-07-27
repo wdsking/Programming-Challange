@@ -1,0 +1,11 @@
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\bin\Debug\netcoreapp2.0\Problem 1.deps.json
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\bin\Debug\netcoreapp2.0\Problem 1.runtimeconfig.json
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\bin\Debug\netcoreapp2.0\Problem 1.runtimeconfig.dev.json
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\bin\Debug\netcoreapp2.0\Problem 1.dll
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\bin\Debug\netcoreapp2.0\Problem 1.pdb
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\obj\Debug\netcoreapp2.0\Problem 1.csprojResolveAssemblyReference.cache
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\obj\Debug\netcoreapp2.0\Problem 1.csproj.CoreCompileInputs.cache
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\obj\Debug\netcoreapp2.0\Problem 1.AssemblyInfoInputs.cache
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\obj\Debug\netcoreapp2.0\Problem 1.AssemblyInfo.cs
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\obj\Debug\netcoreapp2.0\Problem 1.dll
+E:\Programming-Challange\07 Project Euler\Problem 1\Problem 1\obj\Debug\netcoreapp2.0\Problem 1.pdb
